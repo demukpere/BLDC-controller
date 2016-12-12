@@ -1,0 +1,6 @@
+{
+  "name": "Bldc-controller",
+  "tagline": "",
+  "body": "# BLDC-controller\r\n\r\nThis Brushless DC(BLDC) Motor Controller was designed and constructed for the vehicle which represented the [University of Lagos](http://www.unilag.edu.ng/) at the [Shell Eco-Marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon.html), Europe 2014.  \r\n\r\nThis work was a joint effort between [@imohiosen](https://github.com/imohiosen) and [@demukpere](https://github.com/demukpere)\r\n\r\n![David at SEM Johannesburg](http://res.cloudinary.com/siriusted/image/upload/v1481573362/IMG_20141026_120110_qczw5j.jpg)\r\n[@demukpere](https://github.com/demukpere) answering questions on the propulsion system at SEM Africa, Johannesburg 2014.\r\n\r\n![Stanley and David](http://res.cloudinary.com/siriusted/image/upload/v1481573368/IMG_20141023_070916_s426ts.jpg)\r\n[@teliov](https://github.com/teliov) and [@demukpere](https://github.com/demukpere) taking a vehicle for a test run",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
